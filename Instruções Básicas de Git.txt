@@ -1,0 +1,36 @@
+
+   * Criando repositório + Commit & Push *
+
+$ git remote
+
+$ git remote add origin https://github.com/Chustaffus77/(repositório_criado).git
+
+$ git remote
+
+$ git remote -v
+
+$ cat .git/config
+
+$ git add .
+
+$ git commit -m "Mensagem do Commit"
+
+$ git push -u origin master (envia pro GitHub)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
